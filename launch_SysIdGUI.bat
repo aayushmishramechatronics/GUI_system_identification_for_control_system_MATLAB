@@ -1,0 +1,3 @@
+@echo off
+echo Starting System Identification GUI in MATLAB...
+start "" "C:\Program Files\MATLAB\R2024b\bin\matlab.exe" -r "cd('C:\Users\aayus\Downloads\SysIdGUI'); SystemIdentificationGUI;"
